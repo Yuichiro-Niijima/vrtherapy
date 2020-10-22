@@ -16,8 +16,8 @@
 
 
 ## その他
- 以下のVRゴーグルで使用可能
- ・Oculus Quest
+ 以下のVRゴーグルで使用可能<br>
+ ・Oculus Quest<br>
  ・Oculus Quest2
  
  ・サービス全体の概要は、こちらをご参照ください。
