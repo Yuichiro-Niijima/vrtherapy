@@ -20,6 +20,9 @@
  ・Oculus Quest
  ・Oculus Quest2
  
+ ・サービス全体の概要は、こちらをご参照ください。
+ https://xd.adobe.com/view/5ba7ad9f-3508-415f-81a9-076db28a434b-0ef4/
+ 
 ## Author
  新嶋祐一朗
  
